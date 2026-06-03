@@ -84,18 +84,18 @@ Email/password login authenticated against the DealLens API. Session-based acces
 
 ### Workspace Dashboard
 At-a-glance pipeline health with pursue / review / pass metrics. Designed for team leads and credit managers who need a fast read on deal flow.
-
-![Dashboard Overview](./screenshots/dashboard.png)
+<img width="500" height="250" alt="Screenshot 2026-06-03 at 13 34 48" src="https://github.com/user-attachments/assets/3ca5aa7e-546d-48d0-b0b1-487b2723874e" />
 
 ### PDF Screening
 Upload and screen financial PDFs with structured borrower and equipment metadata. AI extracts key signals and surfaces a recommendation for underwriter review.
 
-![PDF Screening Form](./screenshots/pdf-screening.png)
+<img width="281" height="701" alt="Screenshot 2026-06-03 at 13 53 52" src="https://github.com/user-attachments/assets/2963ec45-ca5e-49f3-981d-745404d33713" />
 
 ### Deal Queue & Detail
 Searchable, filterable deal queue. Click into any deal for full detail — AI report, status history, document attachments, and one-click status changes.
 
-![Deal Queue](./screenshots/deal-queue.png)
+<img width="500" height="250" alt="Screenshot 2026-06-03 at 13 34 12" src="https://github.com/user-attachments/assets/3a004e6b-4640-4f8d-a0d4-62c2f93fd548" />
+
 
 ### Report Export
 Export deal reports in structured format for audit trails, compliance, or external review.
@@ -103,7 +103,8 @@ Export deal reports in structured format for audit trails, compliance, or extern
 ### Analytics View
 Track team throughput, approval rates, and pipeline velocity over time.
 
-![Analytics](./screenshots/analytics.png)
+<img width="500" height="250" alt="Screenshot 2026-06-03 at 13 34 25" src="https://github.com/user-attachments/assets/eb2c5a49-00e8-46f3-8563-c4dcbf42ccfc" />
+
 
 ### Lifecycle Tracking
 Visual lifecycle stages from application submission through close or pass.
@@ -114,7 +115,8 @@ Manage team members, roles, and third-party integrations from the settings panel
 ### Credit Policy Configuration
 Define and update credit policy rules that feed into AI screening logic — without touching code.
 
-![Credit Policy](./screenshots/credit-policy.png)
+<img width="500" height="250" alt="Screenshot 2026-06-03 at 13 55 46" src="https://github.com/user-attachments/assets/21a9ec34-44d0-4a24-8769-ef347293d019" />
+
 
 ### Responsive Layout
 Full desktop and mobile support. Optimized for underwriters at their desk and managers checking status on the go.
