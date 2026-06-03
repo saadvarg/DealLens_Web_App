@@ -2,7 +2,7 @@
 
 > Enterprise equipment finance workflow — screen PDFs, review AI recommendations, manage underwriting, and configure credit policy from a single interface.
 
-
+<img width="1470" height="828" alt="Screenshot 2026-06-03 at 13 34 48" src="https://github.com/user-attachments/assets/d9611a3d-5e7b-42bb-b813-25d0846f648a" />
 
 ---
 
