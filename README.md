@@ -24,7 +24,8 @@ DealLens is a standalone React/Vite web client for enterprise equipment finance 
 
 | Dashboard | Deal Queue | PDF Screening |
 |-----------|------------|---------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Deal Queue](./screenshots/deal-queue.png) | ![PDF Screening](./screenshots/pdf-screening.png) |
+| <img width="1470" height="828" alt="Screenshot 2026-06-03 at 13 34 48" src="https://github.com/user-attachments/assets/53ac4b70-c52b-4964-9b99-ea0c7f672f7e" />
+ | ![Deal Queue](./screenshots/deal-queue.png) | ![PDF Screening](./screenshots/pdf-screening.png) |
 
 | Deal Detail | Analytics | Credit Policy |
 |-------------|-----------|---------------|
