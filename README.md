@@ -156,9 +156,9 @@ src/
 
 ## Related
 
-- [DealLens API](https://github.com/your-org/deallens-api) — Backend service this client connects to
+- [DealLens API](https://github.com/saadvarg/DealLens_WP_Plugin) — Backend service this client connects to
 - [LoanTrack iOS App](https://saadvarg.github.io/LoanTrackWeb/) — Mobile companion for loan pipeline management
-- [BrokerForm Pro](https://gumroad.com/your-link) — WordPress plugin for loan application intake
+- [BrokerForm Pro](saadventure2608.gumroad.com/l/qgumhr) — WordPress plugin for loan application intake
 
 ---
 
