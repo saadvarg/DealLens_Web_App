@@ -21,15 +21,15 @@ DealLens is a standalone React/Vite web client for enterprise equipment finance 
 ---
 
 ## Screenshots
+<img width="800" height="828" alt="Screenshot 2026-06-03 at 13 34 48" src="https://github.com/user-attachments/assets/d9611a3d-5e7b-42bb-b813-25d0846f648a" />
 
-| Dashboard | Deal Queue | PDF Screening |
-|-----------|------------|---------------|
-| <img width="1470" height="828" alt="Screenshot 2026-06-03 at 13 34 48" src="https://github.com/user-attachments/assets/53ac4b70-c52b-4964-9b99-ea0c7f672f7e" />
- | ![Deal Queue](./screenshots/deal-queue.png) | ![PDF Screening](./screenshots/pdf-screening.png) |
+<img width="800" height="835" alt="Screenshot 2026-06-03 at 13 34 25" src="https://github.com/user-attachments/assets/cc54b026-23ee-443b-ba56-d53b4d0706c4" />
 
-| Deal Detail | Analytics | Credit Policy |
-|-------------|-----------|---------------|
-| ![Deal Detail](./screenshots/deal-detail.png) | ![Analytics](./screenshots/analytics.png) | ![Credit Policy](./screenshots/credit-policy.png) |
+<img width="800" height="839" alt="Screenshot 2026-06-03 at 13 34 12" src="https://github.com/user-attachments/assets/dbcd7d70-d5e9-4569-91ab-5d5b17370621" />
+
+<img width="800" height="821" alt="Screenshot 2026-06-03 at 13 33 53" src="https://github.com/user-attachments/assets/bd98ee43-cf50-408a-b656-028d2de4d51e" />
+
+<img width="800" height="603" alt="Screenshot 2026-06-03 at 13 26 00" src="https://github.com/user-attachments/assets/2739207d-5f39-4e05-aa48-fa97f5056575" />
 
 ---
 
